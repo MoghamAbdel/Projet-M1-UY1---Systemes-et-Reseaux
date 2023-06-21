@@ -1,1 +1,83 @@
-# Projet-M1-UY1---Systemes-et-Reseaux
+# UE Projet (INF4228)-M1-UY1---Systemes-et-Reseaux
+
+                          [          APPLICATION DE PARTAGE DE FICHIERS VIA UN PAIRE A PAIRE            ]                
+************************************************************************************************************************************************
+Cette application permet de partager des fichiers entre un serveur et des clients en utilisant des sockets TCP/IP. Les clients peuvent demander le téléchargement d'un fichier spécifique au serveur, qui répond en envoyant le contenu du fichier demandé.
+************************************************************************************************************************************************
+
+Fonctionnalités du serveur 
+***************************
+    -Accepte les connexions de plusieurs clients simultanément
+    -Permet aux clients d'ajouter des fichiers à leur liste de fichiers partagés
+    -Enregistre la liste des clients connectés et leurs fichiers partagés dans un fichier CSV
+    -Enregistre les opérations du serveur dans un fichier de log
+
+Configuration et utilisation
+*****************************
+	-Assurez-vous d'avoir Python installé sur votre système.
+	-Installez les dépendances en exécutant la commande suivante :
+
+	-pip install tkinter
+
+	-Exécutez le fichier serv.py  python3 serveur.py pour démarrer le serveur.
+	-L'interface du serveur s'affichera. Cliquez sur le bouton "Démarrer le serveur" pour commencer à écouter les connexions des clients.
+	-Les informations sur les clients connectés, les fichiers partagés et les opérations du serveur seront affichées dans l'interface et 		-enregistrées dans les fichiers correspondants.
+	-Pour arrêter le serveur, cliquez sur le bouton "Arrêter le serveur".
+Dépendances
+***********
+	Ce programme utilise les bibliothèques suivantes :
+
+    -tkinter : pour la création de l'interface utilisateur graphique
+    -socket : pour la communication réseau
+    -struct : pour l'encodage et le décodage des données
+    -threading : pour gérer les connexions clientes simultanées
+    -csv : pour l'enregistrement de la liste des clients dans un fichier CSV
+    -time : pour la gestion du temps
+    -sys : pour rediriger la sortie standard vers l'interface utilisateur
+    -os : pour la manipulation des chemins de fichiers
+
+    Assurez-vous d'installer ces dépendances avant d'exécuter le programme.
+
+Client de partage de fichiers
+*****************************
+
+Ce programme est un client de partage de fichiers qui permet de partager des fichiers avec d'autres clients, rechercher des fichiers partagés par d'autres clients et télécharger des fichiers à partir d'autres clients.
+Installation et exécution
+
+    Assurez-vous d'avoir Python 3 installé sur votre système.
+    Téléchargez tous les fichiers sources du programme.
+    Ouvrez une ligne de commande ou un terminal et accédez au répertoire contenant les fichiers sources.
+    Installez les dépendances nécessaires en exécutant la commande suivante :
+`   shell
+    pip install tkinter
+
+  Ensuite, exécutez le programme en utilisant la commande suivante :
+	shell
+	python client_partage_fichiers.py
+
+Utilisation
+***********
+
+Une fois le programme exécuté, vous pouvez utiliser les fonctionnalités suivantes :
+
+    -Partager des fichiers : Cliquez sur le bouton "Partager des fichiers" pour sélectionner un répertoire à partager. Les fichiers de ce répertoire seront partagés avec d'autres clients connectés.
+
+    -Rechercher des fichiers : Cliquez sur le bouton "Rechercher des fichiers" pour rechercher des fichiers partagés par d'autres clients. Entrez un mot-clé de recherche dans la boîte de dialogue qui apparaît, puis les résultats de la recherche seront affichés.
+
+    -Télécharger un fichier : Cliquez sur le bouton "Télécharger un fichier" pour télécharger un fichier à partir d'un autre client. Entrez le nom du fichier, l'adresse IP et le port du client propriétaire du fichier dans les boîtes de dialogue qui apparaissent.
+
+    -Afficher les logs : Cliquez sur le bouton "Afficher les logs" pour afficher les logs du serveur.
+
+    -Quitter : Cliquez sur le bouton "Quitter" pour fermer le programme.
+
+Notes supplémentaires
+*********************
+
+    Assurez-vous d'exécuter le programme serveur (fourni séparément) pour pouvoir partager et télécharger des fichiers avec succès.
+    Les fichiers partagés sont affichés dans une liste à gauche de l'interface graphique.
+    Les résultats de recherche sont affichés dans une nouvelle fenêtre.
+    Les fichiers téléchargés sont enregistrés dans le dossier "downloads" dans le répertoire du programme.
+    Les logs du serveur peuvent être consultés en cliquant sur le bouton "Afficher les logs".
+
+
+
