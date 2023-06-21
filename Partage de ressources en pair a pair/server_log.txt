@@ -1,0 +1,128 @@
+[2023-06-12 20:17:02] IP = 127.0.0.1, Port = 33922
+[2023-06-12 20:17:02] Date et heure de connexion du client : 2023-06-12 20:17:02
+[2023-06-12 20:17:04] Client 127.0.0.1:33922 a partagé des fichiers
+[2023-06-12 20:17:04] Client 127.0.0.1:33922 Opération de partage de fichiers terminée
+[2023-06-12 20:17:04] Client 127.0.0.1:33922 Client déconnecté
+[2023-06-12 20:17:04] Client 127.0.0.1:33922 Attente d'une nouvelle connexion
+[2023-06-12 20:19:54] IP = 127.0.0.1, Port = 42546
+[2023-06-12 20:19:54] Date et heure de connexion du client : 2023-06-12 20:19:54
+[2023-06-12 20:19:55] Client 127.0.0.1:42546 a partagé des fichiers
+[2023-06-12 20:19:55] Client 127.0.0.1:42546 Opération de partage de fichiers terminée
+[2023-06-12 20:19:55] Client 127.0.0.1:42546 Client déconnecté
+[2023-06-12 20:19:55] Client 127.0.0.1:42546 Attente d'une nouvelle connexion
+[2023-06-12 20:20:08] IP = 127.0.0.1, Port = 45310
+[2023-06-12 20:20:08] Date et heure de connexion du client : 2023-06-12 20:20:08
+[2023-06-12 20:24:20] IP = 127.0.0.1, Port = 49502
+[2023-06-12 20:24:20] Date et heure de connexion du client : 2023-06-12 20:24:20
+[2023-06-12 21:46:56] IP = 127.0.0.1, Port = 60842
+[2023-06-12 21:46:56] Date et heure de connexion du client : 2023-06-12 21:46:56
+[2023-06-12 21:46:57] Client 127.0.0.1:60842 a partagé des fichiers
+[2023-06-12 21:46:57] Client 127.0.0.1:60842 Opération de partage de fichiers terminée
+[2023-06-12 21:46:57] Client 127.0.0.1:60842 Client déconnecté
+[2023-06-12 21:46:57] Client 127.0.0.1:60842 Attente d'une nouvelle connexion
+[2023-06-12 21:47:20] IP = 127.0.0.1, Port = 57872
+[2023-06-12 21:47:20] Date et heure de connexion du client : 2023-06-12 21:47:20
+[2023-06-13 08:23:15] IP = 127.0.0.1, Port = 51602
+[2023-06-13 08:23:15] Date et heure de connexion du client : 2023-06-13 08:23:15
+[2023-06-13 08:23:51] IP = 127.0.0.1, Port = 49682
+[2023-06-13 08:23:51] Date et heure de connexion du client : 2023-06-13 08:23:51
+[2023-06-13 08:24:01] IP = 127.0.0.1, Port = 35434
+[2023-06-13 08:24:01] Date et heure de connexion du client : 2023-06-13 08:24:01
+[2023-06-13 08:24:32] IP = 127.0.0.1, Port = 60928
+[2023-06-13 08:24:32] Date et heure de connexion du client : 2023-06-13 08:24:32
+[2023-06-13 08:24:33] Client 127.0.0.1:60928 a partagé des fichiers
+[2023-06-13 08:24:33] Client 127.0.0.1:60928 Opération de partage de fichiers terminée
+[2023-06-13 08:24:33] Client 127.0.0.1:60928 Client déconnecté
+[2023-06-13 08:24:33] Client 127.0.0.1:60928 Attente d'une nouvelle connexion
+[2023-06-13 08:24:42] IP = 127.0.0.1, Port = 49888
+[2023-06-13 08:24:42] Date et heure de connexion du client : 2023-06-13 08:24:42
+[2023-06-13 08:30:48] IP = 127.0.0.1, Port = 36474
+[2023-06-13 08:30:48] Date et heure de connexion du client : 2023-06-13 08:30:48
+[2023-06-13 08:31:11] Client 127.0.0.1:36474 a partagé des fichiers
+[2023-06-13 08:31:11] Client 127.0.0.1:36474 Opération de partage de fichiers terminée
+[2023-06-13 08:31:11] Client 127.0.0.1:36474 Client déconnecté
+[2023-06-13 08:31:11] Client 127.0.0.1:36474 Attente d'une nouvelle connexion
+[2023-06-13 08:31:18] IP = 127.0.0.1, Port = 59786
+[2023-06-13 08:31:18] Date et heure de connexion du client : 2023-06-13 08:31:18
+[2023-06-13 08:31:46] IP = 127.0.0.1, Port = 45316
+[2023-06-13 08:31:46] Date et heure de connexion du client : 2023-06-13 08:31:46
+[2023-06-13 08:32:41] IP = 127.0.0.1, Port = 40554
+[2023-06-13 08:32:41] Date et heure de connexion du client : 2023-06-13 08:32:41
+[2023-06-13 08:33:15] IP = 127.0.0.1, Port = 54546
+[2023-06-13 08:33:15] Date et heure de connexion du client : 2023-06-13 08:33:15
+[2023-06-13 08:34:09] Client 127.0.0.1:54546 a partagé des fichiers
+[2023-06-13 08:34:09] Client 127.0.0.1:54546 Opération de partage de fichiers terminée
+[2023-06-13 08:34:09] Client 127.0.0.1:54546 Client déconnecté
+[2023-06-13 08:34:09] Client 127.0.0.1:54546 Attente d'une nouvelle connexion
+[2023-06-13 08:34:16] IP = 127.0.0.1, Port = 57410
+[2023-06-13 08:34:16] Date et heure de connexion du client : 2023-06-13 08:34:16
+[2023-06-13 09:11:12] IP = 127.0.0.1, Port = 37226
+[2023-06-13 09:11:12] Date et heure de connexion du client : 2023-06-13 09:11:12
+[2023-06-13 09:11:14] Client 127.0.0.1:37226 a partagé des fichiers
+[2023-06-13 09:11:14] Client 127.0.0.1:37226 Opération de partage de fichiers terminée
+[2023-06-13 09:11:14] Client 127.0.0.1:37226 Client déconnecté
+[2023-06-13 09:11:14] Client 127.0.0.1:37226 Attente d'une nouvelle connexion
+[2023-06-13 09:11:33] IP = 127.0.0.1, Port = 60868
+[2023-06-13 09:11:33] Date et heure de connexion du client : 2023-06-13 09:11:33
+[2023-06-13 09:19:26] IP = 127.0.0.1, Port = 50326
+[2023-06-13 09:19:26] Date et heure de connexion du client : 2023-06-13 09:19:26
+[2023-06-13 09:19:28] Client 127.0.0.1:50326 a partagé des fichiers
+[2023-06-13 09:19:28] Client 127.0.0.1:50326 Opération de partage de fichiers terminée
+[2023-06-13 09:19:28] Client 127.0.0.1:50326 Client déconnecté
+[2023-06-13 09:19:28] Client 127.0.0.1:50326 Attente d'une nouvelle connexion
+[2023-06-13 09:19:40] IP = 127.0.0.1, Port = 47976
+[2023-06-13 09:19:40] Date et heure de connexion du client : 2023-06-13 09:19:40
+[2023-06-13 10:09:21] IP = 127.0.0.1, Port = 57414
+[2023-06-13 10:09:21] Date et heure de connexion du client : 2023-06-13 10:09:21
+[2023-06-13 10:09:23] Client 127.0.0.1:57414 a partagé des fichiers
+[2023-06-13 10:09:23] Client 127.0.0.1:57414 Opération de partage de fichiers terminée
+[2023-06-13 10:09:23] Client 127.0.0.1:57414 Client déconnecté
+[2023-06-13 10:09:23] Client 127.0.0.1:57414 Attente d'une nouvelle connexion
+[2023-06-13 10:09:36] IP = 127.0.0.1, Port = 58862
+[2023-06-13 10:09:36] Date et heure de connexion du client : 2023-06-13 10:09:36
+[2023-06-13 10:24:19] IP = 127.0.0.1, Port = 36846
+[2023-06-13 10:24:19] Date et heure de connexion du client : 2023-06-13 10:24:19
+[2023-06-13 10:24:20] Client 127.0.0.1:36846 a partagé des fichiers
+[2023-06-13 10:24:20] Client 127.0.0.1:36846 Opération de partage de fichiers terminée
+[2023-06-13 10:24:20] Client 127.0.0.1:36846 Client déconnecté
+[2023-06-13 10:24:20] Client 127.0.0.1:36846 Attente d'une nouvelle connexion
+[2023-06-13 10:24:31] IP = 127.0.0.1, Port = 33050
+[2023-06-13 10:24:31] Date et heure de connexion du client : 2023-06-13 10:24:31
+[2023-06-13 11:15:58] IP = 127.0.0.1, Port = 57146
+[2023-06-13 11:15:58] Date et heure de connexion du client : 2023-06-13 11:15:58
+[2023-06-13 11:16:00] Client 127.0.0.1:57146 a partagé des fichiers
+[2023-06-13 11:16:00] Client 127.0.0.1:57146 Opération de partage de fichiers terminée
+[2023-06-13 11:16:00] Client 127.0.0.1:57146 Client déconnecté
+[2023-06-13 11:16:00] Client 127.0.0.1:57146 Attente d'une nouvelle connexion
+[2023-06-13 11:16:11] IP = 127.0.0.1, Port = 58974
+[2023-06-13 11:16:11] Date et heure de connexion du client : 2023-06-13 11:16:11
+[2023-06-13 11:16:55] IP = 127.0.0.1, Port = 38638
+[2023-06-13 11:16:55] Date et heure de connexion du client : 2023-06-13 11:16:55
+[2023-06-13 11:17:08] Client 127.0.0.1:38638 a partagé des fichiers
+[2023-06-13 11:17:08] Client 127.0.0.1:38638 Opération de partage de fichiers terminée
+[2023-06-13 11:17:08] Client 127.0.0.1:38638 Client déconnecté
+[2023-06-13 11:17:08] Client 127.0.0.1:38638 Attente d'une nouvelle connexion
+[2023-06-15 01:19:03] IP = 127.0.0.1, Port = 43776
+[2023-06-15 01:19:03] Date et heure de connexion du client : 2023-06-15 01:19:03
+[2023-06-15 01:19:05] Client 127.0.0.1:43776 a partagé des fichiers
+[2023-06-15 01:19:05] Client 127.0.0.1:43776 Opération de partage de fichiers terminée
+[2023-06-15 01:19:05] Client 127.0.0.1:43776 Client déconnecté
+[2023-06-15 01:19:05] Client 127.0.0.1:43776 Attente d'une nouvelle connexion
+[2023-06-15 12:32:14] IP = 127.0.0.1, Port = 35684
+[2023-06-15 12:32:14] Date et heure de connexion du client : 2023-06-15 12:32:14
+[2023-06-15 12:32:17] Client 127.0.0.1:35684 a partagé des fichiers
+[2023-06-15 12:32:17] Client 127.0.0.1:35684 Opération de partage de fichiers terminée
+[2023-06-15 12:32:17] Client 127.0.0.1:35684 Client déconnecté
+[2023-06-15 12:32:17] Client 127.0.0.1:35684 Attente d'une nouvelle connexion
+[2023-06-15 12:32:33] IP = 127.0.0.1, Port = 41456
+[2023-06-15 12:32:33] Date et heure de connexion du client : 2023-06-15 12:32:33
+[2023-06-16 11:59:51] IP = 127.0.0.1, Port = 42664
+[2023-06-16 11:59:51] Date et heure de connexion du client : 2023-06-16 11:59:51
+[2023-06-21 01:52:08] IP = 127.0.0.1, Port = 59808
+[2023-06-21 01:52:08] Date et heure de connexion du client : 2023-06-21 01:52:08
+[2023-06-21 01:52:35] Client 127.0.0.1:59808 a partagé des fichiers
+[2023-06-21 01:52:35] Client 127.0.0.1:59808 Opération de partage de fichiers terminée
+[2023-06-21 01:52:35] Client 127.0.0.1:59808 Client déconnecté
+[2023-06-21 01:52:35] Client 127.0.0.1:59808 Attente d'une nouvelle connexion
+[2023-06-21 01:54:01] IP = 127.0.0.1, Port = 51420
+[2023-06-21 01:54:01] Date et heure de connexion du client : 2023-06-21 01:54:01
